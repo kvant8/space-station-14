@@ -1,7 +1,7 @@
 - type: gameMap
   id: Barge # айди прототипа вашей карты
   mapName: 'Barge station' # название карты
-  mapPath: /Uploaded/barge/barge.yml # путь до файла карты
+  mapPath: /Maps/barge.yml # путь до файла карты
   minPlayers: 35 # минимальное количество игроков для появления карты в голосовании
   maxPlayers: 75 # максимально количество игроков для карты
   stations:
